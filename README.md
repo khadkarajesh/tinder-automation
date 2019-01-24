@@ -1,4 +1,4 @@
-No more swiping for tinder like
+No more boring stuffs for date
 
 ### How to use?
 Create credential.py file in project directory.
