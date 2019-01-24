@@ -11,3 +11,6 @@ Execute:
 ```python
    python tinder_api.py
 ```
+
+References:
+- https://github.com/fbessez/Tinder
